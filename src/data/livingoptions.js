@@ -23,7 +23,7 @@ const LivingOption = [
     "Välj vårat härliga tvåmanna tält som ligger längs skogskanten med sikt mot sjön ",
     199,
     "Tent0",
-    "/assets/parTent.jpg"
+    "./assets/parTent.jpg"
   ),
 
   item(
@@ -32,7 +32,7 @@ const LivingOption = [
     "Välj vårat härliga familjetält som rymmer (5 personer), som ligger i den lilla skogsdungen nära nöjesparken ",
     599,
     "Tent3",
-    "/assets/familjeTent.jpg"
+    "./assets/familjeTent.jpg"
   ),
 
   item(
@@ -41,7 +41,7 @@ const LivingOption = [
     "Välj vårat härliga enmanstält som ligger uppe nära och bra till hiking rundan",
     159,
     "Tent7",
-    "/assets/enmansTent.jpg"
+    "./assets/enmansTent.jpg"
   ),
 
   item(
